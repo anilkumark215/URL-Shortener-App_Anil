@@ -1,6 +1,6 @@
-# 🚀 URL Shortener – Daphnis Labs Internship Project
+# 🚀 URL Shortener –  Project
 
-This is a **URL Shortener web application** built as part of my internship assessment at **Daphnis Labs**. It enables users to shorten long URLs, track their usage analytics, and view click statistics in a simple, responsive interface.
+This is a **URL Shortener web application** built as part Project. It enables users to shorten long URLs, track their usage analytics, and view click statistics in a simple, responsive interface.
 
 ---
 
